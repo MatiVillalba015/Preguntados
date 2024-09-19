@@ -1,0 +1,12 @@
+1,3,2Cual es el planeta mas grande del sistema solar?
+2,5,3Cual es la capital de Francia?
+3,3,3Quien escribio Don Quijote de la Mancha?
+4,3,1Cual es el rio más largo del mundo?
+5,1,1Cual es el simbolo quimico del oxigeno?
+6,1,1En que anio comenzo la Primera Guerra Mundial?
+7,1,4Cual es el instrumento musical conocido como el rey de los instrumentos?
+8,3,1Cual es la moneda oficial de Japon?
+9,3,2Cual es la capital de Australia?
+10,5,3Quien pinto la Mona Lisa?
+11,5,1Cual es el proceso por el cual las plantas convierten la luz solar en energia?
+12,3,1Cual es el metal mas abundante en la corteza terrestre?

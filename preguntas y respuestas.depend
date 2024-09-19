@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1695177069 source:c:\users\kevin\documents\programacion\preguntas y respuestas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"respuestas.h"
+	"preguntas.h"
+
+1695336856 source:c:\users\kevin\documents\programacion\preguntas y respuestas\respuestas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"respuestas.h"
+
+1695336943 source:c:\users\kevin\documents\programacion\preguntas y respuestas\preguntas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"preguntas.h"
+	"respuestas.h"
+
+1695178530 c:\users\kevin\documents\programacion\preguntas y respuestas\preguntas.h
+	"respuestas.h"
+
+1695175558 c:\users\kevin\documents\programacion\preguntas y respuestas\respuestas.h
+
+1695162668 source:d:\practica c\preguntas y respuestas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"respuestas.h"
+	"preguntas.h"
+
+1695161158 d:\practica c\preguntas y respuestas\respuestas.h
+
+1695164130 d:\practica c\preguntas y respuestas\preguntas.h
+	"respuestas.h"
+
+1695695545 source:d:\practica c\preguntas y respuestas\preguntas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"preguntas.h"
+	"respuestas.h"
+
+1695322456 source:d:\practica c\preguntas y respuestas\respuestas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"respuestas.h"
+
+1696955655 source:d:\practica c\preguntas y respuestas - de nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"respuestas.h"
+	"jugador.h"
+	"preguntas.h"
+	"puntos.h"
+
+1696954620 d:\practica c\preguntas y respuestas - de nuevo\respuestas.h
+
+1696954588 d:\practica c\preguntas y respuestas - de nuevo\preguntas.h
+	"respuestas.h"
+
+1696954827 source:d:\practica c\preguntas y respuestas - de nuevo\preguntas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	"preguntas.h"
+	"jugador.h"
+	"puntos.h"
+
+1696954614 source:d:\practica c\preguntas y respuestas - de nuevo\respuestas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"respuestas.h"
+
+1696954621 source:d:\practica c\preguntas y respuestas - de nuevo\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"jugador.h"
+	"puntos.h"
+	"preguntas.h"
+
+1696950285 d:\practica c\preguntas y respuestas - de nuevo\jugador.h
+	<stdbool.h>
+	"preguntas.h"
+
+1696912489 d:\practica c\preguntas y respuestas - de nuevo\puntos.h
+	"puntos.h"
+
+1696912476 source:d:\practica c\preguntas y respuestas - de nuevo\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"puntos.h"
+
+1698621238 source:c:\users\matias\desktop\tp\tp\proyecto final terminado\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"jugador.h"
+	"puntos.h"
+	"preguntas.h"
+
+1698620972 c:\users\matias\desktop\tp\tp\proyecto final terminado\jugador.h
+	<stdbool.h>
+	"preguntas.h"
+
+1698615951 c:\users\matias\desktop\tp\tp\proyecto final terminado\preguntas.h
+	"respuestas.h"
+
+1698620972 c:\users\matias\desktop\tp\tp\proyecto final terminado\respuestas.h
+
+1696912489 c:\users\matias\desktop\tp\tp\proyecto final terminado\puntos.h
+	"puntos.h"
+
+1698622809 source:c:\users\matias\desktop\tp\tp\proyecto final terminado\preguntas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	"preguntas.h"
+	"jugador.h"
+	"puntos.h"
+
+1698621766 source:c:\users\matias\desktop\tp\tp\proyecto final terminado\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"puntos.h"
+
+1698622713 source:c:\users\matias\desktop\tp\tp\proyecto final terminado\respuestas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"respuestas.h"
+
+1698621970 source:c:\users\matias\desktop\tp\tp\proyecto final terminado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"respuestas.h"
+	"jugador.h"
+	"preguntas.h"
+	"puntos.h"
+

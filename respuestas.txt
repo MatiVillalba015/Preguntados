@@ -1,0 +1,12 @@
+1,Venus,Jupiter,Marte,Neptuno
+2,Madrid,Berlin,Paris,Roma
+3,Shakespeare,Marquez,Cervantes,Asuten
+4,Nilo,Amazonas,Danubio,Misisipi
+5,O,Ox,Oxg,O2
+6,1914,1915,1913,1912
+7,Violin,Guitarra,Piano,Organo
+8,Yen,Yuan,Euro,Peso
+9,Sydney,Canberra,Melbourne,Brisbane
+10,Picasso,VanGogh,DaVinci,Pedro
+11,Fotosintesis,Respiracion,Germinacion,Clorofila
+12,Hierro,Aluminio,Cobre,Oro
